@@ -1,0 +1,5 @@
+Django==1.9.5
+
+# Components
+django-bootstrap3==7.0.1
+django-compressor==2.0
